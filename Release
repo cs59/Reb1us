@@ -1,0 +1,8 @@
+Origin: Reb1us's Private Repo
+Label: Reb1us's Repo
+Suite: stable
+Version: 1.3.12
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Name's Repo

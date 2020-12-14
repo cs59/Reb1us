@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>Bebas Neue</string>
+		<key>FontSize</key>
+		<integer>26</integer>
+		<key>TextColor</key>
+		<string>#42341c</string>
+		<key>TextXoffset</key>
+		<integer>-6</integer>
+		<key>TextYoffset</key>
+		<integer>4</integer>
+	</dict>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>ArialRoundedMTBold</string>
+		<key>FontSize</key>
+		<integer>0</integer>
+		<key>TextColor</key>
+		<string>#E22C38</string>
+		<key>TextYoffset</key>
+		<string></string>
+	</dict>
+	<key>IB-MaskIcons</key>
+	<false/>
+	<key>PackageName</key>
+	<string>Golden Shadow</string>
+</dict>
+</plist>
